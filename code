@@ -1,6 +1,4 @@
-# th_cod_gen = ['t1=a-b' , 't2=a-c' , 't3=t1+u','t4=t3+t2']
 th_cod_gen = ['t1=a*b' , 't2=d*c' ,'t3=t1-t2']
-# th_cod_gen = ['t1=c*d','t2=t1+b']
 out =[]
 opval = {'+':'ADD' , '-':'SUB' , '*':'MUL' , '/':'DIV'}
 op = ['*' , '+' , '-' , '/']
